@@ -1,5 +1,7 @@
 {
   "name": "codecamp.org",
+  "author": "9hb",
+  "license": "ISC",
   "version": "1.0.0",
   "description": "amazing project",
   "main": "index.js",
@@ -13,8 +15,6 @@
   "keywords": [
     "certificate"
   ],
-  "author": "9hb",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/extrafeel/codecamp.org/issues"
   },
