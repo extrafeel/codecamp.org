@@ -1,22 +1,22 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"version": "1.0.0",
-	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-	"author": "9hb",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-	},
-	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+  "name": "codecamp.org",
+  "version": "1.0.0",
+  "description": "amazing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extrafeel/codecamp.org.git"
+  },
+  "keywords": [
+    "certificate"
+  ],
+  "author": "9hb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/extrafeel/codecamp.org/issues"
+  },
+  "homepage": "https://github.com/extrafeel/codecamp.org#readme"
 }
